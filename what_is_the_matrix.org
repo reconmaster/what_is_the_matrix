@@ -1,20 +1,24 @@
 #+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
 #+OPTIONS: author:t broken-links:nil c:nil creator:nil
-#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:nil f:t inline:t num:t
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:t f:t inline:t num:t
 #+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
 #+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
 #+TITLE: What is the matrix?
-#+DATE: <2019-11-12 Tue>
-#+AUTHOR: Andrew M. Davis
-#+EMAIL: amdavis@posteo.net
+#+DATE: <2019-11-05 Tue>
+#+AUTHOR: reconmaster
+#+EMAIL: @reconmaster:matrix.org
 #+LANGUAGE: en
 #+SELECT_TAGS: export
 #+EXCLUDE_TAGS: noexport
 #+CREATOR: Emacs 26.1 (Org mode 9.1.13)
 #+LaTeX_HEADER: \usepackage[encapsulated]{CJK}
 #+LATEX_HEADER: \usepackage[12pt,letterpaper,top=1in,bottom=1in,left=1in,right=1in]{geometry}
-#+LATEX_HEADER: \usepackage{setspace}
-#+LATEX_HEADER: \doublespacing
+# +LATEX_HEADER: \usepackage{setspace}
+# +LATEX_HEADER: \doublespacing
+
+#+begin_export latex
+\newcommand{\jntext}[1]{\begin{CJK}{UTF8}{min}#1 \end{CJK}}
+#+end_export
 
 \maketitle
 
@@ -39,7 +43,7 @@ decode the higher-order Reality that exists beyond you. Your senses
 provide detectors by which to make observations of the world within
 the constraints of what our human biology has evolved to perceive.
 
-What happens after birth, however, is where your five senses are
+What happens after birth, however, is where your senses are
 immediately hijacked to imprint the matrix operating system in your
 mind. From the first word you learn, the world is broken apart into
 the pieces as seen by our ancestors. The programming language of the
@@ -80,11 +84,11 @@ control of your thoughts and connect with the reality that directly
 surrounds you. Learning another language provides you with a new
 programming language to manipulate and perceive the world.
 
-If you truly want to disconnect from the matrix of words, /zazen/ or
-sitting meditation is a tool that lets you perceive the world beyond
-that which can be described with words. When you attain /mushin/ or no
-mind, you have allowed your senses to connect directly with the
-Universe.
+If you truly want to disconnect from the matrix of words, /zazen/
+(\jntext{座禅}) or sitting meditation is a tool that lets you perceive
+the world beyond that which can be described with words. When you
+attain /mushin/ (\jntext{無心}) or no mind, you have allowed your
+senses to connect directly with the Universe.
 
 Even though I can tell you steps of how to manufacture a red pill, it
 is up to you whether or not you want to take it. The world beyond the
@@ -100,7 +104,8 @@ where people became part of the machine.
 We can continue to live in this world where we are symbolically
 manipulated as cogs. The status quo is becoming encoded into the
 foundation of the new matrix that is now running on artificial
-intelligences that are limited by the minds of its architects.
+intelligences that are limited by the minds of its architects and the
+bias in the data from which it learns.
 
 Or, we can start to wake up so that we can envision a better society
 that exists in a reality beyond that which we can currently perceive.
