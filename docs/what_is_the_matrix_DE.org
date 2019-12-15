@@ -1,0 +1,58 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:t f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Was ist die Matrix?
+#+DATE: <2019-12-15>
+#+AUTHOR: heylix
+#+LANGUAGE: de
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Geany 1.23
+#+LaTeX_HEADER: \usepackage[encapsulated]{CJK}
+#+LATEX_HEADER: \usepackage[12pt,letterpaper,top=1in,bottom=1in,left=1in,right=1in]{geometry}
+# +LATEX_HEADER: \usepackage{setspace}
+# +LATEX_HEADER: \doublespacing
+
+#+begin_export latex
+\newcommand{\jntext}[1]{\begin{CJK}{UTF8}{min}#1 \end{CJK}}
+#+end_export
+
+\maketitle
+
+Vielleicht hast du den Film /Matrix (1999)/ gesehen. Neo entscheidet sich für die rote Pille und erwacht in einer Realität höherer Ordnung. Dort die Welt, in der er lebte, nur eine Simulation, die den Geist beruhigen sollte, während der Körper als Energiequelle genutzt wurde.
+
+Als du aus dem Kino gingst und vielleicht unbewusst die Rückseite deines Halses riebst, hast du versucht, ein Gefühl des Unbehagens loszuwerden. Wenn du in so einer künstlichen Welt leben würdest, wie würdest du dann aufwachen? Wenn dir eine rote und eine blaue Pille angeboten würden, würdest du wirklich im Wunderland bleiben wollen und herausfinden, wie tief das Kaninchenloch reicht?
+
+Die Matrix ist echt. Wenn du wirklich glücklich bist, wie die Welt zu funktionieren scheint, solltest du nicht weiterlesen. Du kannst mich als Morpheus betrachten, und was folgt, ist eine Rezeptur für die Herstellung einer roten Pille.
+
+Du wirst in die Matrix hineingeboren. Bei der Geburt haben deine genetische und pränatale Umgebung bereits die Hardware kodiert, mit der du die Realität höherer Ordnung dekodieren musst, die außerhalb von dir existiert. Deine Sinne bieten Detektoren, mit denen du die Welt innerhalb der Grenzen dessen, was unsere menschliche Biologie wahrnimmt, beobachten kannst.
+
+Was nach der Geburt passiert, ist, dass dir deine Sinne sofort genommen werden, um das Matrix-Betriebssystem in deinem Kopf zu prägen. Vom ersten Wort an, das du lernst, wird die Welt in Stücke zerlegt, wie sie von unseren Vorfahren gesehen wird. Die Programmiersprache der Matrix ist die Sprache selbst.
+
+Worte sind mächtig. Wenn man Dinge benennt, schafft man gleichzeitig das Potenzial, das Benannte zu manipulieren. Durch Worte war der Mensch in der Lage, seinen Willen auf die natürliche Welt zu übertragen und die darin vorhandenen Energiequellen zu nutzen.
+
+Leider sind andere Menschen eine der größten Energiequellen. Sklaverei und die Automatisierung der Menschen ermöglicht es, gewaltige Leistungen zu erbringen. Sklaven bauten die Pyramiden in Ägypten genauso wie sie die Pyramiden in Deutschland bauten.
+
+Die Menge an Macht, die durch menschliche Knechtschaft angesammelt wird, ist nicht leicht aufzugeben. Wenn Fesseln aus der Mode kommen, wie bindet man dann noch den Willen eines anderen? Worte erlauben es dir, Welten zu bauen, in denen Menschen geboren werden. Welten, in denen die Sprache, in der sie denken, sie in einer niedrigeren Ebene der Welt gefangen hält.
+
+Wenn wir keinen Stecker im Nacken haben, wie werden wir dann in der Matrix gefangen? Heutzutage tragen wir normalerweise alle den Stecker in der Tasche. Wenn wir abends nach Hause zurückkehren, baden wir uns immer mehr in dem beruhigenden Licht, das wir "die Medien" nennen.
+
+Die Welten, aus denen sich diese elektromagnetische Strahlung ausbreitet, sind künstlich. Selbst das, was wir als Nachricht betrachten, ist ein hergestelltes Produkt, das mit verängstigenden Taktiken versucht, unsere evolutionäre Verkabelung zu untergraben und unsere Aufmerksamkeit zu erregen. So funktioniert die Matrix. Um Menschen zu kontrollieren, musst du ihren Verstand kontrollieren.
+
+Wie wacht man auf? Du musst lernen, die Kontrolle über deine Gedanken wiederzuerlangen.
+
+Fang damit an, indem du die Informationsströme, die in deinen Kopf gelangen, sorgfältig anpasst. Die Reduzierung der TV- und Handynutzung ermöglicht es dir, die redaktionelle Kontrolle über deine Gedanken zurückzugewinnen und dich wieder mit der Realität zu verbinden, die dich umgibt. Das Erlernen einer anderen Sprache bietet dir eine neue Programmiersprache, um die Welt zu manipulieren und wahrzunehmen.
+
+Wenn du dich wirklich von der Matrix der Wörter lösen willst, ist Zazen (\jntext{座禅}) oder Sitzmeditation ein Werkzeug, mit dem du die Welt jenseits dessen wahrnehmen kannst, was mit Worten beschrieben werden kann. Wenn du Mushin (\jntext{無心}) oder "keinen Verstand" erreichst, hast du deinen Sinnen erlaubt, eins mit dem Universum zu werden.
+
+Auch wenn ich dir Schritte vorschreiben kann, wie man eine rote Pille herstellt, liegt es an dir, ob du sie nehmen willst oder nicht. Die Welt jenseits der Konstrukte des menschlichen Verstehens ist ein wirklich schöner, aber einsamer Ort - Worte können sie nicht beschreiben. Nicht jeder hat die Disziplin oder den Mut, ins Unbekannte zu flüchten.
+
+Die Matrix, oder Gesellschaft, in ihrer gegenwärtigen Manifestation ist eine sich selbst erhaltende Form der modernen Sklaverei. Wir werden gelehrt, unsere Lebenseit als Ware zu betrachten – ein Konstrukt der industriellen Revolution, bei dem die Menschen ein Teil der Maschine wurden.
+
+Wir können weiterhin in dieser Welt leben, in der wir uns als Zahnräder manipulieren lassen. Der Status quo wird in die Grundfeste der neuen Matrix kodiert, die jetzt auf künstlichen Intelligenzen läuft, die durch die Köpfe ihrer Baumeister und die Vorurteile der Daten, aus denen sie lernt, begrenzt sind.
+
+Oder wir können anfangen aufzuwachen, damit wir uns eine bessere Gesellschaft ausdenken können, die in einer Realität existiert, die über das hinausgeht, was wir derzeit erleben.
+
+Du kannst die blaue Pille nehmen und wieder einschlafen, oder du kannst sehen, wo die rote Pille dich hinführt und anderen Menschen dabei helfen, aufzuwachen.
