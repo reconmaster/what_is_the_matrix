@@ -18,3 +18,4 @@ The body cannot live without the mind.
 #+end_quote
 - [[file:docs/what_is_the_matrix_DE.org][Deutsche]]
 - [[file:docs/what_is_the_matrix_EN.org][English]]
+- [[file:docs/what_is_the_matrix_ES.org][Español]]

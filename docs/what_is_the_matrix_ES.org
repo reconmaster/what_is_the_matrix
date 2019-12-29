@@ -1,0 +1,58 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:t f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: ¿Que es la matriz?
+#+AUTHOR: ocelomeh
+#+EMAIL: @ocelomeh:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+LaTeX_HEADER: \usepackage[encapsulated]{CJK}
+#+LATEX_HEADER: \usepackage[12pt,letterpaper,top=1in,bottom=1in,left=1in,right=1in]{geometry}
+# +LATEX_HEADER: \usepackage{setspace}
+# +LATEX_HEADER: \doublespacing
+
+#+begin_export latex
+\newcommand{\jntext}[1]{\begin{CJK}{UTF8}{min}#1 \end{CJK}}
+#+end_export
+
+\maketitle
+
+Quizás has visto la película Matrix. Neo elige tomar la pastilla roja y se da cuenta de una realidad con orden más elevado en la cual el mundo en que vive es simplemente una simulación diseñada para aplacar la mente mientras el cuerpo se aprovecha como fuente de energía.
+
+Mientras salías del cine, quizás inconscientemente frotaste la nuca, tratando de flaquear el sentido de malestar. Si vivías en un mundo artificial, como te despertarías. Si se te ofrece entre una pastilla roja y una azul, de veras que te quedarías en El País de Maravillas (Wonderland) y averiguar lo lejos que va La Madriguera del Conejo (Rabbit-Hole)?
+
+La matriz es real. Si estas verdaderamente estas feliz con la manera en que este mundo parece funcionar, hasta este punto debes seguir. Piensa en mí como Morpheus, y lo que sigue como un esquemático para producir una pastilla roja.
+
+Naciste en el matriz. Al nacer, tu genética y ambiente prenatal ya codificaron el hardware que se utiliza para descodificar la realidad con orden más elevado. La realidad que existe más allá de ti. Tus sentidos proveen detectores los cuales se usan para observar el mundo dentro de las restricciones hasta que tu biología humana se ha evolucionado percibir.
+
+Sin embargo, lo que sucede después de nacer es donde tus sentidos inmediatamente son secuestrados para imprimir en la mente el sistema operativo de la matriz.
+
+Palabras tienen poder. Al nombrar una entidad, uno simultáneamente crea el potencial de manipular lo que se ha nombrado. Es a través de las palabras que humanos han podido ejercido sus voluntades en el mundo natural y utilizar las fuentes de energía que residen allí.
+
+Desgraciadamente, una de las mejores fuentes de energía son otros humanos. La esclavitud y la mecanización de humanos permite lograr tremendas hazañas.
+
+La cantidad de poder acumulada a través de la servidumbre humana no se renunciará fácilmente. ¿Cuándo las esposas salen de moda, como puede uno continuar atar la voluntad de otro? Palabras permiten que uno pueda construir mundos en las cuales nacen la gente donde el lenguaje que se usa para pensar los atrapa en una dimensión del Mundo más rebajada.
+
+¿Si no estamos enchufados en la nuca, como podemos estar atrapados en el matriz? Hoy en día, llevamos el enchufe en el bolsillo. Cuando regresamos a casa en la tarde, sentamos a bañarnos en el relajante alumbro de los medios.
+
+Los mundos de que se propaga la radiación electromagnética son artificiales. Hasta lo que pensamos como noticias son frutos fabricados que incursionan tácticas basados en el miedo para socavar nuestras capacidades evolutivas y secuestran nuestra atención. Así funciona el matriz. Para controlar a la gente, simplemente se tiene que controlar sus mentes.
+
+¿Como se despierta uno? Se tiene que recuperar el control de sus pensamientos.
+
+Empiece a cuidadosamente adaptando la información que le entra a la mente. Reduciendo uso de la tele y el teléfono celular le permite recuperar control editorial de sus pensamientos y conectar con la realidad que le rodean. Aprendiendo otro lenguaje le provee con un nuevo lenguaje de programación para manejar y percibir el mundo.
+
+Si verdaderamente se quiere desenchufar de la matriz de palabras, zazen (\jntext{座禅}) o meditación sentada es una técnica que permite a uno percibir el mundo más allá de lo que describe las palabras. Cuando se atiene mushin (\jntext{無心}) o sin mente, has permitido que tus sentidos se conectan directamente con el Universo.
+
+Aunque le puedo dar pasos de como manufacturar una pastilla roja, depende de usted sí o no quieres tomarla. El mundo más allá de las construcciones del conocimiento humano es una verdadera maravilla, pero también un lugar solitario – palabras no lo pueden describir. Muchos no tienen la disciplina o coraje para escapar a lo Desconocido.
+
+La matriz, o sociedad, en su manifestación actual es una forma de auto perpetuación de la esclavitud moderna. Somos criados intercambiar el tiempo como una mercancía, algo remanente de la Revolución Industrial cuando la gente se convirtió en parte de la maquinaria.
+
+Podemos continuar a vivir en este mundo donde somos manipulados simbólicamente como engranajes en una máquina.
+
+O, nos podemos dispertar para concebir una sociedad mejor que existe en una realidad más allá de lo que podemos percibir en este momento.
+
+Puedes tomar la pastilla azul y volverse a dormir, o puedes ver a donde te lleva la pastilla roja y luego ir a ayudar otros dispertar.
