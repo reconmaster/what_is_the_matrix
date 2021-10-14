@@ -1,0 +1,131 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:t f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: What is the matrix?
+#+DATE: <2019-11-05 Tue>
+#+AUTHOR: reconmaster
+#+EMAIL: @reconmaster:matrix.org
+#+AUTHOR: teslas_moustache
+#+EMAIL: @teslas_moustache:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+LaTeX_HEADER: \usepackage[encapsulated]{CJK}
+#+LATEX_HEADER: \usepackage[12pt,letterpaper,top=1in,bottom=1in,left=1in,right=1in]{geometry}
+# +LATEX_HEADER: \usepackage{setspace}
+# +LATEX_HEADER: \doublespacing
+
+#+begin_export latex
+\newcommand{\jntext}[1]{\begin{CJK}{UTF8}{min}#1 \end{CJK}}
+#+end_export
+
+\maketitle
+
+Eble vi vidis la filmon *La Matrico*. Neo elektas por preni la ruĝan
+pilolon kaj estas vekita en pli ordan realecon, kie la mondo, en kiu
+li vivis, estis nur simulado desegnita por pacigi la menson dum la
+korpo estis jungita kiel energifonto.
+
+Dum vi eliris el la teatro, eble subkonscie frotante la nukon, vi
+provis skui maltrankvilon. Se vi loĝus en tia artefarita mondo, kiel
+vi vekiĝus? Se oni ofertus al vi ruĝan pilolon kaj bluan pilolon, ĉu
+vi vere volus resti en Mirlando kaj ekscii ĝis kie iras la
+kuniklotruo?
+
+La matrico estas reala. Se vi vere feliĉas pri kiel la mondo ŝajnas
+funkcii, ĉi tio estas tiom kiom vi devas iri. Vi povas pensi pri mi
+kiel Morfeo, kaj kio sekvas estas skemo por produkti ruĝan pilolon.
+
+Vi naskiĝas en la matrico. Ĉe naskiĝo, via genetika kaj antaŭnaska
+medio jam kodis la aparataron per kiu vi devas deĉifri la pli altan
+Realecon, kiu ekzistas preter vi. Viaj sensoj provizas detektilojn per
+kiuj fari observojn pri la mondo en la limoj de tio, kion nia homa
+biologio evoluis percepti.
+
+Kio okazas post la naskiĝo, tamen estas tio, kie viaj sensoj estas tuj
+kaperitaj por enpresi la matrican operaciumon en via menso. De la unua
+vorto, kiun vi lernas, la mondo disiĝas en pecojn, kiel vidis niaj
+prapatroj. La programlingvo de la matrico estas lingvo mem.
+
+Vortoj estas potencaj. Nomante enton, oni samtempe kreas la eblon
+manipuli ĉion nomitan. Estis per vortoj, ke homoj povis plenumi sian
+volon al la natura mondo kaj utiligi la energifontojn, kiuj ekzistas
+en ĝi.
+
+Bedaŭrinde, unu el la plej grandaj energifontoj estas aliaj homoj.
+Sklaveco kaj mekanizado de homoj permesas realigi grandegajn
+heroaĵojn. Sklavoj konstruis la piramidojn en Egiptio same kiel ili
+konstruas la piramidojn en Usono.
+
+La kvanto de potenco akumulita per homa sklaveco ne facile cedas. Kiam
+manakloj eksmodiĝis, kiel vi daŭre ligas la volon de alia? Vortoj
+permesas vin konstrui mondojn, en kiuj homoj naskiĝas, kie la lingvo,
+en kiu ili pensas, kaptas ilin en pli malalta dimensio de la Mondo.
+
+Se ni ne havas ŝtopilon en la malantaŭo de nia kolo, kiel ni restas
+kaptitaj en la matrico? Nuntempe ni kutime ĉiuj portas la ŝtopilon en
+nia poŝo. Kiam ni revenas hejmen vespere, ni tro sidas banas nin en
+pli da trankviliga lumo, kiun ni nomas amaskomunikiloj.
+
+La mondoj de kiuj disvastiĝas ĉi tiu elektromagneta radiado estas
+artefaritaj. Eĉ tio, kion ni pensas kiel novaĵoj, estas fabrikita
+produkto, kiu okupiĝas pri tim-bazitaj taktikoj por renversi nian
+evoluan drataron kaj kapti nian atenton. Tiel funkcias la matrico. Por
+regi homojn, vi simple bezonas regi iliajn mensojn.
+
+Kiel vi vekiĝas? Vi devas lerni regajni viajn pensojn.
+
+Komencu zorge tajlorante la informajn fluojn, kiuj eniras vian kapon.
+Redukti televidan kaj poŝtelefonan uzadon permesas al vi reakiri
+redakcian kontrolon de viaj pensoj kaj konekti kun la realaĵo, kiu
+rekte ĉirkaŭas vin. Lerni alian lingvon donas al vi novan
+programlingvon por manipuli kaj percepti la mondon.
+
+Se vi vere volas malkonekti de la matrico de vortoj, zazen (\jntext{座
+禅}) aŭ sidanta meditado estas ilo, kiu permesas vin percepti la
+mondon preter tio, kio povas esti priskribita per vortoj. Kiam vi
+atingas mushin (\jntext{無心}) aŭ nenian menson, vi permesis al viaj
+sensoj ligi rekte kun la Universo.
+
+Kvankam mi povas diri al vi paŝojn pri kiel produkti ruĝan pilolon,
+dependas de vi, ĉu vi volas aŭ ne preni ĝin. La mondo preter la
+konstruoj de homa kompreno estas vere bela sed soleca loko - vortoj ne
+povas priskribi ĝin. Ne ĉiuj havas la disciplinon aŭ kuraĝon eskapi en
+la Nekonatan.
+
+La matrico, aŭ socio, en sia nuna manifestiĝo estas memkreska formo de
+nuntempa sklaveco. Oni instruas nin komerci nian tempon kiel varo,
+konstruaĵo de la Industria Revolucio, kie homoj fariĝis parto de la
+maŝino.
+
+Ni povas daŭre vivi en ĉi tiu mondo, kie ni estas simbole manipulitaj
+kiel raddentoj. La status quo enkodiĝas en la fundamenton de la nova
+matrico, kiu nun funkcias per artefaritaj inteligentecoj, limigitaj de
+la mensoj de ĝiaj arkitektoj kaj la antaŭjuĝo en la datumoj, de kiuj
+ĝi lernas.
+
+Kvankam mi povas diri al vi paŝojn pri kiel produkti ruĝan pilolon,
+dependas de vi, ĉu vi volas aŭ ne preni ĝin. La mondo preter la
+konstruoj de homa kompreno estas vere bela sed soleca loko - vortoj ne
+povas priskribi ĝin. Ne ĉiuj havas la disciplinon aŭ kuraĝon eskapi en
+la Nekonatan.
+
+La matrico, aŭ socio, en sia nuna manifestiĝo estas memkreska formo de
+nuntempa sklaveco. Oni instruas nin komerci nian tempon kiel varo,
+konstruaĵo de la Industria Revolucio, kie homoj fariĝis parto de la
+maŝino.
+
+Ni povas daŭre vivi en ĉi tiu mondo, kie ni estas simbole manipulitaj
+kiel raddentoj. La status quo enkodiĝas en la fundamenton de la nova
+matrico, kiu nun funkcias per artefaritaj inteligentecoj, limigitaj de
+la mensoj de ĝiaj arkitektoj kaj la antaŭjuĝo en la datumoj, de kiuj
+ĝi lernas.
+
+Aŭ, ni povas ekveki tiel, ke ni povas antaŭvidi pli bonan socion, kiu
+ekzistas en realo preter tiu, kiun ni nuntempe povas percepti.
+
+Vi povas preni la bluan pilolon kaj ree dormi, aŭ vi povas vidi, kien
+la ruĝa pilolo prenas vin kaj tiam helpi aliajn homojn vekiĝi.
