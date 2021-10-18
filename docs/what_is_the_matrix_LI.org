@@ -1,0 +1,114 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:t f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Kas yra matrica?
+#+DATE: <2019-11-05 Tue>
+#+AUTHOR: reconmaster
+#+EMAIL: @reconmaster:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+LaTeX_HEADER: \usepackage[encapsulated]{CJK}
+#+LATEX_HEADER: \usepackage[12pt,letterpaper,top=1in,bottom=1in,left=1in,right=1in]{geometry}
+# +LATEX_HEADER: \usepackage{setspace}
+# +LATEX_HEADER: \doublespacing
+
+#+begin_export latex
+\newcommand{\jntext}[1]{\begin{CJK}{UTF8}{min}#1 \end{CJK}}
+#+end_export
+
+\maketitle
+
+Galbūt esate matę filmą "Matrica". Neo nusprendžia išgerti raudonąją
+piliulę ir yra pažadinamas į aukštesnio lygio realybę, kurioje
+pasaulis, kuriame jis gyveno, buvo tik simuliacija, sukurta protui
+nuraminti, o kūnas buvo naudojamas kaip energijos šaltinis.
+
+Išeidami iš kino teatro, galbūt pasąmoningai trindami pakaušį, bandėte
+atsikratyti nerimo jausmo. Jei gyventumėte tokiame dirbtiniame
+pasaulyje, kaip atsibustumėte? Jei jums pasiūlytų raudoną ir mėlyną
+piliulę, ar tikrai norėtumėte pasilikti Stebuklų šalyje ir sužinoti,
+kaip toli veda triušio skylė?
+
+Matrica yra tikra. Jei jus iš tiesų tenkina tai, kaip atrodo, kad
+veikia pasaulis, toliau eiti neturėtumėte. Galite mane laikyti
+Morfėjumi, o toliau pateikiama raudonosios piliulės gamybos schema.
+
+Jūs gimstate matricoje. Gimstant jūsų genetinėje ir prenatalinėje
+aplinkoje jau yra užkoduota aparatinė įranga, kuria turite iššifruoti
+už jūsų egzistuojančią aukštesnio lygio Tikrovę. Jūsų pojūčiai - tai
+detektoriai, kuriais galite stebėti pasaulį, laikydamiesi apribojimų,
+kuriuos nustatė mūsų žmogaus biologija.
+
+Tačiau po gimimo jūsų pojūčiai iš karto užgrobiami, kad į jūsų protą
+būtų įdiegta matricos operacinė sistema. Nuo pirmojo išmokto žodžio
+pasaulis suskaidomas į dalis, kurias matė mūsų protėviai. Matricos
+programavimo kalba yra pati kalba.
+
+Žodžiai yra galingi. Įvardydami esybę, kartu sukuriame galimybę
+manipuliuoti tuo, kas buvo įvardyta. Būtent žodžių dėka žmonės
+sugebėjo savo valia paveikti gamtos pasaulį ir panaudoti jame esančius
+energijos šaltinius.
+
+Deja, vienas didžiausių energijos šaltinių yra kiti žmonės. Vergovė ir
+žmonių mechanizavimas leidžia atlikti didžiulius žygdarbius. Vergai
+statė piramides Egipte, kaip ir Jungtinėse Amerikos Valstijose.
+
+Per žmonių vergovę sukauptos galios nėra lengva atsisakyti. Kai
+pančiai išeina iš mados, kaip ir toliau rišti kito žmogaus valią?
+Žodžiai leidžia kurti pasaulius, į kuriuos gimsta žmonės, kai kalba,
+kuria jie mąsto, įkalina juos žemesniame Pasaulio matmenyje.
+
+Jei neturime antkaklio užpakalyje, kaip įstringame matricoje? Šiais
+laikais paprastai visi kišenėje nešiojamės kištuką. Kai vakarais
+grįžtame namo, taip pat sėdime ir maudomės raminančioje šviesoje,
+kurią vadiname medija.
+
+Pasauliai, iš kurių sklinda ši elektromagnetinė spinduliuotė, yra
+dirbtiniai. Net tai, ką mes laikome naujienomis, yra pagamintas
+produktas, kuriame naudojama baime pagrįsta taktika, kad būtų pakirsta
+mūsų evoliucinė sąranga ir prikaustytas mūsų dėmesys. Taip veikia
+matrica. Norint valdyti žmones, reikia tiesiog kontroliuoti jų protus.
+
+Kaip pabusti? Turite išmokti susigrąžinti savo minčių kontrolę.
+
+Pradėkite nuo kruopštaus informacijos srautų, kurie patenka į jūsų
+galvą, pritaikymo. Sumažinę televizoriaus ir mobiliojo telefono
+naudojimą, galėsite susigrąžinti redakcinę savo minčių kontrolę ir
+užmegzti ryšį su realybe, kuri jus tiesiogiai supa. Mokydamiesi kitos
+kalbos įgyjate naują programavimo kalbą, kuria galite manipuliuoti
+pasauliu ir jį suvokti.
+
+Jei tikrai norite atsijungti nuo žodžių matricos, zazen (\jntext{座禅})
+arba meditacija sėdint yra priemonė, leidžianti suvokti pasaulį ne tik
+tai, ką galima aprašyti žodžiais. Pasiekę mushin (\jntext{無心}) arba
+proto nebuvimą, leidžiate savo pojūčiams tiesiogiai susisiekti su
+Visata.
+
+Nors galiu papasakoti, kaip pasigaminti raudonąją piliulę, tik nuo
+jūsų priklauso, ar norite ją vartoti, ar ne. Pasaulis, esantis už
+žmogiškojo supratimo konstrukcijų ribų, yra tikrai graži, bet vieniša
+vieta - žodžiais jos apibūdinti neįmanoma. Ne kiekvienas turi
+pakankamai disciplinos ar drąsos pabėgti į Nežinomybę.
+
+Dabartinė matrica, arba visuomenė, yra save įtvirtinanti šiuolaikinės
+vergovės forma. Esame mokomi prekiauti savo laiku kaip preke - tai
+pramoninės revoliucijos laikų konstrukcija, kai žmonės tapo mašinos
+dalimi.
+
+Galime ir toliau gyventi šiame pasaulyje, kuriame mumis simboliškai
+manipuliuojama kaip sraigteliais. Status quo tampa užkoduotas
+naujosios matricos, kuri dabar veikia su dirbtiniu intelektu, ribojamu
+jo architektų proto ir duomenų, iš kurių jis mokosi, šališkumo,
+pagrindu.
+
+Arba galime pradėti atsibusti, kad galėtume įsivaizduoti geresnę
+visuomenę, egzistuojančią realybėje už tos, kurią šiuo metu galime
+suvokti.
+
+Galite išgerti mėlynąją piliulę ir vėl užmigti, arba galite pažiūrėti,
+kur jus nuves raudonoji piliulė, ir tada eiti padėti kitiems žmonėms
+pabusti.

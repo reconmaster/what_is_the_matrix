@@ -20,3 +20,4 @@ The body cannot live without the mind.
 - [[file:docs/what_is_the_matrix_EN.org][English]]
 - [[file:docs/what_is_the_matrix_EO.org][Esperanto]]
 - [[file:docs/what_is_the_matrix_ES.org][Español]]
+- [[file:docs/what_is_the_matrix_LI.org][Lithuanian]]
