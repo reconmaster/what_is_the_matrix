@@ -1,0 +1,121 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:t f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: Ce este matricea/matrixul?
+#+DATE: <2019-11-05 Tue>
+#+AUTHOR: reconmaster
+#+EMAIL: @reconmaster:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+LaTeX_HEADER: \usepackage[encapsulated]{CJK}
+#+LATEX_HEADER: \usepackage[12pt,letterpaper,top=1in,bottom=1in,left=1in,right=1in]{geometry}
+# +LATEX_HEADER: \usepackage{setspace}
+# +LATEX_HEADER: \doublespacing
+
+#+begin_export latex
+\newcommand{\jntext}[1]{\begin{CJK}{UTF8}{min}#1 \end{CJK}}
+#+end_export
+
+\maketitle
+
+Poate că ați văzut filmul Matrix. Neo alege să ia pilula roșie și este
+trezit într-o realitate de ordin superior, în care lumea în care trăia
+era doar o simulare concepută pentru a liniști mintea, în timp ce
+corpul era folosit ca sursă de energie.
+
+În timp ce ieșeai din cinematograf, poate în mod inconștient
+frecându-ți ceafa, încercai să te scuturi de un sentiment de
+neliniște. Dacă trăiai într-o astfel de lume artificială, cum te-ai fi
+trezit? Dacă ți s-ar oferi o pastilă roșie și una albastră, chiar ai
+vrea să rămâi în Țara Minunilor și să afli cât de departe merge
+vizuina iepurelui?
+
+Matricea este reală. Dacă sunteți cu adevărat mulțumiți de modul în
+care pare să funcționeze lumea, nu ar trebui să mergeți mai departe.
+Puteți să vă gândiți la mine ca la Morpheus, iar ceea ce urmează este
+o schemă pentru producerea unei pilule roșii.
+
+Vă nașteți în matrice. La naștere, mediul tău genetic și prenatal au
+codificat deja hardware-ul cu care trebuie să decodezi Realitatea de
+ordin superior care există dincolo de tine. Simțurile tale îți oferă
+detectoare cu ajutorul cărora poți face observații asupra lumii în
+limitele constrângerilor impuse de ceea ce biologia noastră umană a
+evoluat pentru a percepe.
+
+Ceea ce se întâmplă după naștere, însă, este momentul în care
+simțurile tale sunt imediat deturnate pentru a imprima sistemul de
+operare matricial în mintea ta. Încă de la primul cuvânt pe care îl
+înveți, lumea este împărțită în bucăți, așa cum au văzut-o strămoșii
+noștri. Limbajul de programare al matricei este limbajul însuși.
+
+Cuvintele sunt puternice. Atunci când numești o entitate, creezi
+simultan potențialul de a manipula ceea ce a fost numit. Prin
+intermediul cuvintelor, oamenii au fost capabili să își exercite
+voința asupra lumii naturale și să exploateze sursele de energie care
+există în ea.
+
+Din păcate, una dintre cele mai mari surse de energie sunt alte ființe
+umane. Sclavia și mecanizarea oamenilor permit realizarea unor fapte
+extraordinare. Sclavii au construit piramidele din Egipt, la fel cum
+construiesc piramidele din Statele Unite ale Americii.
+
+Cantitatea de putere acumulată prin intermediul sclaviei umane nu este
+ușor de abandonat. Când manșetele / cătușele nu mai sunt la modă, cum
+poți continua să legi voința altcuiva? Cuvintele îți permit să
+construiești lumi în care se nasc oameni în care limba în care gândesc
+îi prinde într-o dimensiune inferioară a Lumii.
+
+Dacă nu avem o priză în ceafă, cum ajungem să fim prinși în capcană în
+matrice? În zilele noastre, în mod obișnuit, toți purtăm fișa în
+buzunar. Când ne întoarcem seara acasă, ne așezăm și noi să ne scăldăm
+în mai multă lumină liniștitoare pe care o numim media.
+
+Lumile din care se propagă aceste radiații electromagnetice sunt
+artificiale. Chiar și ceea ce considerăm a fi știri este un produs
+fabricat, care se complace în tactici bazate pe frică pentru a ne
+submina cablajul evolutiv și a ne atrage atenția. Acesta este modul în
+care funcționează matricea. Pentru a controla oamenii, trebuie pur și
+simplu să le controlezi mintea.
+
+Cum vă treziți? Trebuie să învățați să vă recâștigați controlul asupra
+gândurilor voastre. Începeți prin a adapta cu atenție fluxurile de
+informații care vă intră în cap. Reducerea utilizării televizorului și
+a telefonului mobil vă permite să vă recâștigați controlul editorial
+al gândurilor și să vă conectați cu realitatea care vă înconjoară
+direct. Învățarea unei alte limbi vă oferă un nou limbaj de programare
+pentru a manipula și percepe lumea.
+
+Dacă doriți cu adevărat să vă deconectați de la matricea cuvintelor,
+zazen (\jntext{座禅}} sau meditația așezată este un instrument care vă
+permite să percepeți lumea dincolo de ceea ce poate fi descris cu
+ajutorul cuvintelor. Atunci când atingi mushin (\jntext{無心}}) sau
+lipsa minții, ai permis simțurilor tale să se conecteze direct cu
+Universul.
+
+Chiar dacă vă pot spune pașii de fabricare a pilulei roșii, depinde de
+voi dacă doriți sau nu să o luați. Lumea de dincolo de construcțiile
+înțelegerii umane este un loc cu adevărat frumos, dar singuratic -
+cuvintele nu o pot descrie. Nu toată lumea are disciplina sau curajul
+de a evada în Necunoscut.
+
+Matricea, sau societatea, în manifestarea sa actuală, este o formă de
+sclavie modernă care se autoperpetuează. Suntem învățați să ne
+tranzacționăm timpul ca pe o marfă, o construcție a Revoluției
+Industriale în care oamenii au devenit parte a mașinii.
+
+Putem continua să trăim în această lume în care suntem manipulați
+simbolic ca niște rotițe. Status quo-ul devine codificat în fundația
+noii matrice care funcționează acum pe baza unor inteligențe
+artificiale care sunt limitate de mințile arhitecților săi și de
+prejudecățile din datele din care învață.
+
+Sau, putem începe să ne trezim pentru a ne putea imagina o societate
+mai bună, care există într-o realitate dincolo de cea pe care o putem
+percepe în prezent.
+
+Poți lua pastila albastră și să te culci din nou, sau poți vedea unde
+te duce pastila roșie și apoi să ajuți alți oameni să se trezească.
