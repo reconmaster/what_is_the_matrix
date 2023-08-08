@@ -1,0 +1,122 @@
+#+OPTIONS: ':nil *:t -:t ::t <:t H:3 \n:nil ^:t arch:headline
+#+OPTIONS: author:t broken-links:nil c:nil creator:nil
+#+OPTIONS: d:(not "LOGBOOK") date:t e:t email:t f:t inline:t num:t
+#+OPTIONS: p:nil pri:nil prop:nil stat:t tags:t tasks:t tex:t
+#+OPTIONS: timestamp:nil title:t toc:nil todo:t |:t
+#+TITLE: La Matrice, qu'est-ce-que c'est ?
+#+DATE: <2019-11-05 Tue>
+#+AUTHOR: reconmaster, meian-wandria
+#+EMAIL: @reconmaster:matrix.org, @meian-wandria:matrix.org
+#+LANGUAGE: en
+#+SELECT_TAGS: export
+#+EXCLUDE_TAGS: noexport
+#+CREATOR: Emacs 26.1 (Org mode 9.1.13)
+#+LaTeX_HEADER: \usepackage[encapsulated]{CJK}
+#+LATEX_HEADER: \usepackage[12pt,letterpaper,top=1in,bottom=1in,left=1in,right=1in]{geometry}
+# +LATEX_HEADER: \usepackage{setspace}
+# +LATEX_HEADER: \doublespacing
+
+#+begin_export latex
+\newcommand{\jntext}[1]{\begin{CJK}{UTF8}{min}#1 \end{CJK}}
+#+end_export
+
+\maketitle
+
+Peut-être avez-vous vu le film Matrix. Neo choisit de prendre la
+pilule rouge et est réveillé dans une réalité d'ordre supérieur. Le
+monde où il vivait n'est qu'une simulation conçue pour apaiser
+l'esprit tandis que le corps était exploité comme source d'énergie.
+
+En sortant du cinema, vous grattant peut-être inconsciemment la nuque,
+vous avez essayé de vous débarrasser d'un sentiment de malaise. Et si
+vous viviez dans un monde aussi artificiel, comment vous
+éveilleriez-vous ? Si on vous offrait une pilule rouge et une pilule
+bleue, voudriez-vous vraiment rester au pays des merveilles et suivre
+le lapin blanc dans son terrier ?
+
+La matrice est réelle. Si vous êtes vraiment satisfait de la façon
+dont le monde semble fonctionner, vous devriez en rester là. Vous
+pouvez me voir comme Morpheus, et ce qui suit est un schéma pour
+fabriquer une pilule rouge.
+
+Vous êtes né dans la matrice. À la naissance, votre environnement
+génétique et prénatal a déjà encodé la matière avec lequel vous devez
+décoder la Réalité d'ordre supérieur qui existe au-delà de vous. Vos
+sens fournissent des détecteurs permettant de faire des observations
+du monde dans les limites de ce que notre biologie humaine a évolué
+pour percevoir.
+
+Après la naissance, cependant, vos sens sont immédiatement détournés
+pour imprimer le système d'exploitation matriciel dans votre esprit.
+Dès le premier mot que vous apprenez, le monde est brisé en morceaux
+définis par la vision de nos ancêtres. Le langage de programmation de
+la matrice est la langue elle-même.
+
+Les mots sont puissants. En nommant une entité, on crée simultanément
+le potentiel de manipuler ce qui vient d'être nommé. C'est à travers
+les mots que les humains ont pu exercer leur volonté sur le monde
+naturel et exploiter les sources d'énergie qui y existent.
+
+Malheureusement, l'une des plus grandes sources d'énergie sont les
+autres êtres humains. L'esclavage et la mécanisation des humains
+permettent d'accomplir des exploits formidables. Les esclaves ont
+construit les pyramides en Égypte tout comme ils ont construit les
+pyramides aux États-Unis d'Amérique.
+
+La quantité de pouvoir accumulée par la servitude humaine n'est pas
+facilement abandonnée. Quand les menottes ne sont plus à la mode,
+comment continuez-vous à lier la volonté d'un autre ? Les mots vous
+permettent de construire des mondes dans lesquels les gens naissent où
+la langue dans laquelle ils pensent les piège dans une dimension
+inférieure du Monde.
+
+Si nous n'avons pas de prise dans la nuque, comment pouvons-nous être
+piégés dans la matrice ? Ces jours-ci, nous portons généralement tous
+notre prise dans la poche. Lorsque nous rentrons chez nous le soir,
+nous nous installons pour un bain dans toujours plus de lumière
+apaisante que nous appelons les médias.
+
+Les mondes à partir desquels ce rayonnement électromagnétique se
+propage sont artificiels. Même ce que nous considérons comme une info
+est un produit manufacturé qui utilise des tactiques basées sur la
+peur pour subvertir notre programmation naturelle et capter notre
+attention. C'est ainsi que fonctionne la matrice. Pour contrôler les
+gens, il suffit de contrôler leur esprit.
+
+Comment est-ce que tu t'éveilles? Vous devez apprendre à reprendre le
+contrôle de vos pensées. Commencez par séléctionner soigneusement les
+flux d'informations qui entrent dans votre tête. Réduire l'utilisation
+de la télévision et du téléphone portable vous permet de reprendre le
+contrôle éditorial de vos pensées et de vous connecter à la réalité
+directe qui vous entoure. Apprendre une autre langue vous fournit un
+nouveau langage de programmation pour manipuler et percevoir le monde.
+
+Si vous voulez vraiment vous déconnecter de la matrice des mots, zazen
+(\jntext{座禅}) ou méditation assise est un outil qui vous permet de
+percevoir le monde au-delà de ce qui peut être décrit avec des mots.
+Lorsque vous atteignez mushin (\jntext{無心}) ou absence de mental,
+vous avez permis à vos sens de se connecter directement à l'Univers.
+
+Même si je peux vous dire comment fabriquer une pilule rouge, c'est à
+vous de décider si vous voulez ou non la prendre. Le monde au-delà des
+constructions de la compréhension humaine est un endroit vraiment beau
+mais solitaire - les mots ne peuvent le décrire. Tout le monde n'a pas
+la discipline ou le courage de s'échapper vers l'Inconnu.
+
+La matrice, ou la société, dans sa manifestation actuelle est une
+forme auto-entretenue d'esclavage moderne. On nous apprend à échanger
+notre temps comme une marchandise, un paradigme de la révolution
+industrielle où les gens sont devenus une partie de la machine.
+
+Nous pouvons continuer à vivre dans ce monde où nous sommes
+symboliquement manipulés comme des rouages. Le statu quo devient
+encodé dans les fondations de la nouvelle matrice qui fonctionne
+désormais sur des intelligences artificielles limitées par l'esprit de
+ses architectes et le parti pris des données à partir desquelles elle
+apprend.
+
+Ou, nous pouvons commencer à nous éveiller afin de pouvoir imaginer
+une société meilleure qui existe dans une réalité au-delà de ce que
+nous pouvons actuellement percevoir. Vous pouvez prendre la pilule
+bleue et vous rendormir, ou vous pouvez voir où la pilule rouge vous
+emmène et ensuite aller aider les autres à se réveiller.
